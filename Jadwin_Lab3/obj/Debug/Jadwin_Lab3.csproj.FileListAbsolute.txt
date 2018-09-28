@@ -1,0 +1,2 @@
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\bin\Debug\Jadwin_Lab3.exe.config
+C:\Users\patrick\Documents\Jadwin_Lab3\Jadwin_Lab3\Jadwin_Lab3\bin\Debug\Jadwin_Lab3.exe.config
